@@ -1,0 +1,19 @@
+int10_char.o: int10_char.cpp ../../include/dosbox.h ../../config.h \
+ ../../include/logging.h ../../include/bios.h ../../include/mem.h \
+ ../../include/inout.h int10.h ../../include/vga.h
+
+../../include/dosbox.h:
+
+../../config.h:
+
+../../include/logging.h:
+
+../../include/bios.h:
+
+../../include/mem.h:
+
+../../include/inout.h:
+
+int10.h:
+
+../../include/vga.h:

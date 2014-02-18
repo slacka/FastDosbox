@@ -1,0 +1,5 @@
+libserial.o: libserial.cpp libserial.h ../../../config.h
+
+libserial.h:
+
+../../../config.h:

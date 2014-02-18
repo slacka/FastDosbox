@@ -1,0 +1,1 @@
+cdrom_aspi_win32.o: cdrom_aspi_win32.cpp

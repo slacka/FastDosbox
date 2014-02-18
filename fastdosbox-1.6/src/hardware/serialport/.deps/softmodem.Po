@@ -1,0 +1,8 @@
+softmodem.o: softmodem.cpp ../../../include/dosbox.h ../../../config.h \
+ ../../../include/logging.h
+
+../../../include/dosbox.h:
+
+../../../config.h:
+
+../../../include/logging.h:

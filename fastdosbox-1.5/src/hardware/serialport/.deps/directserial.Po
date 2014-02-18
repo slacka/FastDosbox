@@ -1,0 +1,8 @@
+directserial.o: directserial.cpp ../../../include/dosbox.h \
+ ../../../config.h ../../../include/logging.h
+
+../../../include/dosbox.h:
+
+../../../config.h:
+
+../../../include/logging.h:

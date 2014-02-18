@@ -1,0 +1,17 @@
+int10_put_pixel.o: int10_put_pixel.cpp ../../include/dosbox.h \
+ ../../config.h ../../include/logging.h ../../include/mem.h \
+ ../../include/inout.h int10.h ../../include/vga.h
+
+../../include/dosbox.h:
+
+../../config.h:
+
+../../include/logging.h:
+
+../../include/mem.h:
+
+../../include/inout.h:
+
+int10.h:
+
+../../include/vga.h:

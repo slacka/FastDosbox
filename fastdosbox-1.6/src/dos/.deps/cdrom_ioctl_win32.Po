@@ -1,0 +1,1 @@
+cdrom_ioctl_win32.o: cdrom_ioctl_win32.cpp

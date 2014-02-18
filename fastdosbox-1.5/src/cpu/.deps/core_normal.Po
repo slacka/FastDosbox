@@ -1,0 +1,99 @@
+core_normal.o: core_normal.cpp /usr/include/stdio.h \
+ /usr/include/features.h /usr/include/arm-linux-gnueabihf/bits/predefs.h \
+ /usr/include/arm-linux-gnueabihf/sys/cdefs.h \
+ /usr/include/arm-linux-gnueabihf/bits/wordsize.h \
+ /usr/include/arm-linux-gnueabihf/gnu/stubs.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h \
+ /usr/include/arm-linux-gnueabihf/bits/types.h \
+ /usr/include/arm-linux-gnueabihf/bits/typesizes.h /usr/include/libio.h \
+ /usr/include/_G_config.h /usr/include/wchar.h \
+ /usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h \
+ /usr/include/arm-linux-gnueabihf/bits/stdio_lim.h \
+ /usr/include/arm-linux-gnueabihf/bits/sys_errlist.h \
+ /usr/include/arm-linux-gnueabihf/bits/stdio.h ../../include/dosbox.h \
+ ../../config.h ../../include/logging.h ../../include/mem.h \
+ ../../include/cpu.h ../../include/regs.h lazyflags.h \
+ ../../include/regs.h ../../include/inout.h ../../include/callback.h \
+ ../../include/pic.h ../../include/fpu.h ../../include/paging.h \
+ instructions.h core_normal/support.h core_normal/helpers.h \
+ core_normal/table_ea.h core_normal/../modrm.h core_normal/string.h \
+ core_normal/prefix_none.h core_normal/prefix_0f.h \
+ core_normal/prefix_66.h core_normal/prefix_66_0f.h
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/arm-linux-gnueabihf/bits/predefs.h:
+
+/usr/include/arm-linux-gnueabihf/sys/cdefs.h:
+
+/usr/include/arm-linux-gnueabihf/bits/wordsize.h:
+
+/usr/include/arm-linux-gnueabihf/gnu/stubs.h:
+
+/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stddef.h:
+
+/usr/include/arm-linux-gnueabihf/bits/types.h:
+
+/usr/include/arm-linux-gnueabihf/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/arm-linux-gnueabihf/4.6/include/stdarg.h:
+
+/usr/include/arm-linux-gnueabihf/bits/stdio_lim.h:
+
+/usr/include/arm-linux-gnueabihf/bits/sys_errlist.h:
+
+/usr/include/arm-linux-gnueabihf/bits/stdio.h:
+
+../../include/dosbox.h:
+
+../../config.h:
+
+../../include/logging.h:
+
+../../include/mem.h:
+
+../../include/cpu.h:
+
+../../include/regs.h:
+
+lazyflags.h:
+
+../../include/regs.h:
+
+../../include/inout.h:
+
+../../include/callback.h:
+
+../../include/pic.h:
+
+../../include/fpu.h:
+
+../../include/paging.h:
+
+instructions.h:
+
+core_normal/support.h:
+
+core_normal/helpers.h:
+
+core_normal/table_ea.h:
+
+core_normal/../modrm.h:
+
+core_normal/string.h:
+
+core_normal/prefix_none.h:
+
+core_normal/prefix_0f.h:
+
+core_normal/prefix_66.h:
+
+core_normal/prefix_66_0f.h:

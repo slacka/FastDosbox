@@ -1,0 +1,21 @@
+flags.o: flags.cpp ../../include/dosbox.h ../../config.h \
+ ../../include/logging.h ../../include/cpu.h ../../include/regs.h \
+ ../../include/mem.h lazyflags.h ../../include/regs.h ../../include/pic.h
+
+../../include/dosbox.h:
+
+../../config.h:
+
+../../include/logging.h:
+
+../../include/cpu.h:
+
+../../include/regs.h:
+
+../../include/mem.h:
+
+lazyflags.h:
+
+../../include/regs.h:
+
+../../include/pic.h:
